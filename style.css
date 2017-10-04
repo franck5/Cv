@@ -1,0 +1,39 @@
+.profil{
+	text-align: center;
+}
+.compétences{
+	text-align: center;
+}
+.haut{
+	background-color: #E6E6FA;
+	padding: 1em;
+}
+h3{
+	background-color: #0C2E4E;
+	color: white;
+	padding: 0.5em;
+}
+body{
+	
+	font-size: 18px;
+	font-family: system-ui;
+}
+img{
+	margin-top: 1em;
+}
+h4{
+	background-color: #0C2E4E;
+	color: white;
+	padding: 0.5em;
+}
+.para{
+	margin-top: 5em;
+	font-size: 20px;
+	font-style: oblique;
+}
+#perso{
+	height: 8em;
+	width: 8em;
+	border-radius: 3em;
+	margin-left: 5em;
+}
